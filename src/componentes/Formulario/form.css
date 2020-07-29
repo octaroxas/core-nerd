@@ -8,6 +8,9 @@
     background-color: rgb(207, 200, 214);
     border-radius: 5px;
     color: white;
-    border-color: rgb(179, 178, 176);
-    font-family: 'Roboto', sans-serif;
+    vertical-align: auto;
+}
+.info{
+    color: gray;
+    background-color: #34363b;
 }

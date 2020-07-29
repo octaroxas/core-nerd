@@ -1,9 +1,12 @@
 import React from 'react';
 import './botao.css';
 
-function Botao(){
+function Botao(props){
     return (
-        <button className="addButton">Adicionar item</button>
+        <a href={props.href} className={props.className} >
+            {props.children}
+        </a>
+        
     );
 }
 
