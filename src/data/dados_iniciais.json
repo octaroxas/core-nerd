@@ -1,80 +1,72 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Jogos",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "cor": "#260099",
       "link_extra": {
         "text": "Formação de Front End na Alura",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Análise Demon's Souls",
+          "url": "https://www.youtube.com/watch?v=2rLkmtxqyDk"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Análise Demon's Souls",
+          "url": "https://www.youtube.com/watch?v=2rLkmtxqyDk"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Análise Dark Souls 1",
+          "url": "https://www.youtube.com/watch?v=M3oa2tszRN0"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Análise Dark Souls 2",
+          "url": "https://www.youtube.com/watch?v=sd6eX_A__aA"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Análise Dark Souls 3",
+          "url": "https://www.youtube.com/watch?v=KEGh14vqvbE&t=431s"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Análise Bloodborne",
+          "url": "https://www.youtube.com/watch?v=IwgIgImmRq0"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Análise Sekiro: Shadows Die Twice",
+          "url": "https://www.youtube.com/watch?v=EJmpUlOv5kA&t=1001s"
         }        
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Hardware e tecnologia",
+      "cor": "#005cb8",
       "link_extra": {
         "text": "Cursos de Back End na Alura",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "PC GAMER com performance do Playstation 5: QUANTO CUSTA? [+gameplay]",
+          "url": "https://www.youtube.com/watch?v=wLi5lr7sGhE"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Pasta térmica importa? Como coloco? Arruinei meu PC colocando muito?",
+          "url": "https://www.youtube.com/watch?v=xpTa5Tnonxc"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Memórias RAM diferentes trabalhando juntas dá ruim?",
+          "url": "https://www.youtube.com/watch?v=DePFBvG8V9s"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "PORQUE O SSD DA CHINA É BEM MAIS BARATO DO QUE AQUI NO BRASIL?",
+          "url": "https://www.youtube.com/watch?v=J04IwiaT4RQ"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Gameplay",
       "cor": "#9cd33b",
       "link_extra": {
         "text": "Cursos de Data Science na Alura",
@@ -82,20 +74,20 @@
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Zangado Megaman 11",
+          "url": "https://www.youtube.com/watch?v=_BGetkmX6X8"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "BRKsEDU Skyrim",
+          "url": "https://www.youtube.com/watch?v=f4JuigM40es"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Zangado Assassin's Creed Unity",
+          "url": "https://www.youtube.com/watch?v=kor8-QzgLmA"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Kingdom Hearts HD 1.5 + 2.5 ReMix (PS4 Pro) - Kingdom Hearts Final Mix - 15 Minutos de Gameplay",
+          "url": "https://www.youtube.com/watch?v=6LZeBF7GGaA"
         }
       ]
     },
@@ -104,25 +96,25 @@
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Joker",
+          "url": "https://www.youtube.com/watch?v=jfVTJm9NilA"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "It a coisa",
+          "url": "https://www.youtube.com/watch?v=dD264ZjfKlk"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS - Official Trailer",
+          "url": "https://www.youtube.com/watch?v=7tmC0KE-ASs"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Garfield (2004) Official Trailer # 1 - Bill Murray HD",
+          "url": "https://www.youtube.com/watch?v=GV5y4yTDtBI"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Curiosidades sobre games",
       "cor": "red",
       "link_extra": {
         "text": "Formação de Jogos na Alura",
@@ -130,29 +122,29 @@
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "CURIOSIDADES QUE VOCÊ NÃO SABIA SOBRE GAMES!",
+          "url": "https://www.youtube.com/watch?v=igP7wHrRm2I"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "SEGREDOS E EASTER EGGS DO GEARS OF WAR GEAR 3",
+          "url": "https://www.youtube.com/watch?v=q1JUoTSaOjA"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "5 COISAS SINISTRAS DOS GAMES QUE VOCE NÃO VIU!",
+          "url": "https://www.youtube.com/watch?v=H7ezvaO9cZo"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Demon's Souls - CONTEÚDO EXCLUÍDO & VERSÕES BETA",
+          "url": "https://www.youtube.com/watch?v=nl47gc3vM8A"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "ICO | Betas dos Jogos #1",
+          "url": "https://www.youtube.com/watch?v=yF1gYm8C3SA"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Programação",
       "cor": "#6b5be2",
       "link_extra": {
         "text": "Curso sobre aprendizado na Alura",
@@ -162,10 +154,6 @@
         {
           "titulo": "Como estudar melhor?",
           "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
         },
         {
           "titulo": "Frameworks",
@@ -178,6 +166,10 @@
         {
           "titulo": "Como aprender a programar?",
           "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        },
+        {
+          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
+          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
         }
       ]
     }

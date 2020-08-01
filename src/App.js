@@ -14,7 +14,7 @@ function App() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"}
+        videoDescription={"O título responsável pelos surgimento de um novo gênero no mundo dos games, em um mundo medieval fansioso e quase totalmente dominado pela escuridão e névoa e com uma dificuldade amarga, isso é só uma minúscula parte de o que é Demon's Souls a primeira obra do mestre Hidetaka Myiazaki, venha descobrir tudo sobre esse grande marco na história dos videojogos"}
       />
 
       <Corousel
