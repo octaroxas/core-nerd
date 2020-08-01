@@ -1,8 +1,6 @@
 import React from 'react';
 import './App.css';
 import Header from './componentes/Header/index';
-import Form from './componentes/Formulario';
-import Botao from './componentes/Botao';
 import BannerMain from '../src/componentes/BannerMain';
 import Corousel from '../src/componentes/Carousel';
 import Footer from '../src/componentes/Footer';
